@@ -17,6 +17,10 @@ if choice == "a" and numero >-273:
 else:
      print("estude mais fisica!")
      
+    
+    
+    
+#MIKA WAS HERE#
 
 
 
